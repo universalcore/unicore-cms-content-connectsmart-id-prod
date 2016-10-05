@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Tawaran kerja melalui internet", 
+  "language": "ind_ID", 
+  "title": "Apakah tawaran pekerjaan itu nyata?", 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
+  "created_at": "2016-10-05T04:36:02.320502+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-05T04:36:02.320681+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Seseorang telah mengirimi saya pesan yang mengatakan mereka punya tawaran pekerjaan untuk saya. Mereka memberitahu saya untuk datang dan bertemu secara pribadi. Apa yang harus saya lakukan?\r\n\r\n* Apakah Anda melamar suatu pekerjaan atau menghubungi seseorang untuk menanyakan pekerjaan? Jika tidak, ini bisa jadi adalah scam - hati-hati.\r\n\r\n* Lakukan penelitian tentang perusahaan atau bisnis - lakukan pencarian internet atau tanyakan teman-teman Anda.\r\n\r\n* Anda harus berhati-hati ketika akan bertemu seseorang untuk pertama kalinya jika Anda mengenalnya di internet.\r\n\r\n* Selalu memilih tempat umum untuk bertemu (misalnya pusat perbelanjaan).\r\n\r\n* Selalu memberitahu teman atau anggota keluarga kemana Anda akan pergi dan dengan siapa Anda bertemu.\r\n\r\n* Bahkan lebih baik jika Anda meminta seorang teman atau anggota keluarga untuk menemani Anda.\r\n\r\nTip Internet berikutnya :", 
+  "source": "23e507350e1f4a789458b8cae0cace54", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "a84dd480b5824eff996affa3b2c39c0d", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "apakah-tawaran-pekerjaan-itu-nyata", 
+  "uuid": "ad5068edd99a470b9488306860b5f92a"
+}

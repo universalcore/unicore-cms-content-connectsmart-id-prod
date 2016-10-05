@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Lakukan tes!", 
+  "language": "ind_ID", 
+  "title": "Seberapa siap Anda dengan Internet?", 
+  "primary_category": "93ef7863db4d4f2498b40f48a541b234", 
+  "created_at": "2016-10-05T05:05:23.897320+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-05T05:05:23.897557+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Jawab semua pertanyaan dengan Ya atau Tidak - Tandai tanggapan Anda di atas sebuah kertas dan lihat di bagian bawah artikel ini untuk menemukan jawaban yang baik!\r\n\r\n(Pertanyaan 1)\r\n\r\nSeseorang mengolok-olok saya di media sosial, apakah OK menyerang balik? (Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 2)\r\n\r\nSaya masuk ke akun teman saya selama hanya 2 menit untuk melihat pesan-pesan mereka, apakah itu OK? (Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 3)\r\n\r\nSeseorang posting pesan-pesan yang tidak pantas di media sosial, apakah OK melaporkannya?\r\n\r\n(Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 4)\r\n\r\nSaya telah bertemu dengan seseorang di Internet dan ia mengundang saya datang ke tempatnya, apakah OK bagi saya untuk datang? (Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 5)\r\n\r\nApakah pesan memenangi uang di internet adalah penipuan?\r\n\r\n(Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 6)\r\n\r\nSaya telah menerima pesan dari seseorang yang saya tidak kenal dengan sebuah link, haruskah saya meng-klik link itu untuk mengetahuinya? (Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 7)\r\n\r\nApakah OK untuk berbagi kata sandi saya jika itu hanya dengan sahabat saya? (Jawaban YA atau TIDAK)\r\n\r\n(Pertanyaan 8)\r\n\r\nApakah OK untuk menggunakan kembali informasi dari internet untuk proyek sekolah? (Jawaban YA atau TIDAK)\r\n\r\nSeberapa baik Anda melakukan? Temukan sekarang!", 
+  "source": "a26cfa55ab444e139159e2ed0508e650", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "e353fb076dbe4aaf98c36d57815a26c6", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "seberapa-siap-anda-dengan-internet", 
+  "uuid": "649e07b530b54d3598c3be0dbcdd75f4"
+}

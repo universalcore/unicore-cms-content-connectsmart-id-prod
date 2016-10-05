@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Cari tahu apa yang harus dilakukan!", 
+  "language": "ind_ID", 
+  "title": "Foto/konten yang menjengkelkan Anda", 
+  "primary_category": "e7dc7ab1be2849dd845998961116a5bc", 
+  "created_at": "2016-10-05T04:37:49.364598+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-05T04:37:49.364795+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Aku melihat posting atau foto di media sosial saya yang menjengkelkan saya - apa yang harus saya lakukan?\r\n\r\n* Jika Anda mengenal orang yang membagikannya ke Anda mungkin ingin mengiriminya pesan atau berbicara tatap muka dengannya untuk menjelaskan alasan posting atau foto mereka menyakitkan atau menyinggung.\r\n\r\n* Anda juga bisa \u201cunfollow\u201d, \u201cunfriend\u201d atau \u201cblock\u201d orang itu sehingga Anda tidak melihat lagi dari posting mereka. Sebagian besar platform media sosial memiliki opsi ini. Di Facebook Anda dapat mengklik profil orang tersebut dan pilih \"block\". Mereka tidak akan dapat mengirimkan pesan dari akun itu lagi kepada Anda.\r\n\r\n* Di sebagian besar platform media sosial Anda dapat melapor posting atau foto tertentu jika bertentangan dengan standar masyarakat platform media sosial. Di Facebook ini termasuk intimidasi, kekerasan grafis, spam. Gunakan link \"report\" dekat posting atau foto untuk menyampaikan laporan.\r\n\r\n* Anda juga dapat melaporkan orang-orang yang tidak mengikuti ketentuan Facebook ini dengan masuk ke profil mereka dan mengklik \"report\".\r\n\r\nTip Internet berikutnya:", 
+  "source": "4e530f1020f141bc847ecab926397b07", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "efc1d4c20e444e0496676bb4bbb6c3ff", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "fotokonten-yang-menjengkelkan-anda", 
+  "uuid": "18fa9f6ed8574a42b28eede1ec485eef"
+}
